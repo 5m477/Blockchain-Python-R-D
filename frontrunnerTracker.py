@@ -8,7 +8,7 @@
 from web3 import Web3
 import pyfiglet
 
-result = pyfiglet.figlet_format("Dexentric BotTracker", font ="digital")
+result = pyfiglet.figlet_format("477 BotTracker", font ="digital")
 print(result)
 
 web3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/<"APIKEY">'))
