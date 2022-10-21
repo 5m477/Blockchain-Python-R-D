@@ -10,7 +10,7 @@ from colorama import Fore
 
 import pyfiglet
 
-result = pyfiglet.figlet_format("Dexentric Bot Sandwich Tracker", font ="ogre")
+result = pyfiglet.figlet_format("477 Bot Sandwich Tracker", font ="ogre")
 print(f'{Fore.GREEN}477 Searching for Sandwich: \n {Fore.RED}{result}') 
 
 web3 = Web3(Web3.HTTPProvider('https://mainnet.infura.io/v3/<"APIKEY">'))
