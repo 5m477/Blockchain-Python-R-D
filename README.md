@@ -2,6 +2,12 @@
 
 Python tool to carry out investigations on the blockchain.
 
+
+# From the Console Cowboys Blockchain Forensics Youtube Series (link below)
+
+#https://www.youtube.com/c/ConsoleCowboys
+
+
 #install libraries needed wit pip3 
 
 web3
